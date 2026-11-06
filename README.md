@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-senai-isabella-v3.png" alt="Isabella Alves — SENAI-SP" width="100%">
+  <img src="./assets/banner-senai-isabella-v4.png" alt="Isabella Alves — SENAI-SP" width="100%">
 </p>
 
 <div align="center">
