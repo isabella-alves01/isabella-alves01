@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/senai-sp-logo.png" alt="Logo SENAI-SP" width="280">
+</p>
+
+<p align="center">
   <img src="./assets/banner-senai.svg" alt="Isabella Alves — SENAI-SP" width="100%">
 </p>
 
@@ -52,6 +56,10 @@ Também estou praticando **lógica de programação**, **modelagem de bancos de 
 Continuar aprendendo e desenvolvendo projetos que unam programação, criatividade e resolução de problemas. Este perfil acompanha minha jornada no curso de Desenvolvimento de Sistemas.
 
 ---
+
+<p align="center">
+  <img src="./assets/senai-sp-logo.png" alt="Logo SENAI-SP" width="220">
+</p>
 
 <div align="center">
 
