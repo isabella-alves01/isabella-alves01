@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/banner-senai-isabella.svg" alt="Isabella Alves — SENAI-SP" width="100%">
+  <img src="./assets/banner-senai-isabella-v2.png" alt="Isabella Alves — SENAI-SP" width="100%">
 </p>
 
 <div align="center">
