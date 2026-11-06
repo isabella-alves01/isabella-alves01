@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 220" role="img" aria-labelledby="title">
+  <title id="title">Projetos e práticas acadêmicas</title>
+  <rect width="1600" height="220" fill="#f4f4f4"/>
+  <path d="M0 0h1600v220H0z" fill="none" stroke="#d71920" stroke-width="18"/>
+  <path d="M1040 0h560v220h-560z" fill="#d71920"/>
+  <g fill="none" stroke="#fff" stroke-width="8" opacity=".95"><path d="M1110 164l80-80 52 52 95-95"/><path d="M1110 164h235"/></g>
+  <g fill="#222" font-family="Arial, Helvetica, sans-serif"><text x="90" y="102" font-size="48" font-weight="700">PROJETOS EM CONSTRUÇÃO</text><text x="94" y="151" font-size="25" letter-spacing="3" fill="#d71920">CÓDIGO • CRIATIVIDADE • SOLUÇÕES</text></g>
+</svg>

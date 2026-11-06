@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner-senai.svg" alt="Isabella Alves — SENAI-SP" width="100%">
+</p>
+
 <div align="center">
 
 # Isabella Alves
@@ -15,6 +19,10 @@
 
 Sou estudante do curso de **Desenvolvimento de Sistemas na Escola SENAI Luiz Varga**. Tenho interesse por programação, desenvolvimento web e criação de soluções, e venho construindo minha experiência por meio de atividades práticas e projetos acadêmicos.
 
+<p align="center">
+  <img src="./assets/banner-aprendizado.svg" alt="Aprendizado na prática" width="100%">
+</p>
+
 ## Tecnologias e assuntos em estudo
 
 <div align="center">
@@ -26,6 +34,10 @@ Sou estudante do curso de **Desenvolvimento de Sistemas na Escola SENAI Luiz Var
 </div>
 
 Também estou praticando **lógica de programação**, **modelagem de bancos de dados relacionais**, estruturas de repetição, arrays e fundamentos de desenvolvimento backend.
+
+<p align="center">
+  <img src="./assets/banner-projetos.svg" alt="Projetos em construção" width="100%">
+</p>
 
 ## Projetos e práticas acadêmicas
 
