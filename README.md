@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="./assets/banner-senai.svg" alt="Isabella Alves — SENAI-SP" width="100%">
+  <img src="./assets/banner-senai-isabella.svg" alt="Isabella Alves — SENAI-SP" width="100%">
 </p>
 
 <div align="center">
 
-# Isabella Alves
+# SENAI-SP | Isabella Alves
 
 ### Estudante de Desenvolvimento de Sistemas | SENAI-SP
 
