@@ -1,6 +1,9 @@
 <p align="center">
   <img src="./assets/banner-senai-isabella-v4.png" alt="Isabella Alves — SENAI-SP" width="100%">
 </p>
+<p align="center">
+  <img src="./assets/senai-sp-logo.png" alt="Logo SENAI-SP" width="220">
+</p>
 
 <div align="center">
 
@@ -53,9 +56,6 @@ Continuar aprendendo e desenvolvendo projetos que unam programação, criativida
 
 ---
 
-<p align="center">
-  <img src="./assets/senai-sp-logo.png" alt="Logo SENAI-SP" width="220">
-</p>
 
 <div align="center">
 
