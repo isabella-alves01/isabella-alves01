@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/senai-sp-logo.png" alt="Logo SENAI-SP" width="280">
-</p>
-
-<p align="center">
   <img src="./assets/banner-senai-isabella-v2.png" alt="Isabella Alves — SENAI-SP" width="100%">
 </p>
 
